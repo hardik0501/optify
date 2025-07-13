@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "duration": "3:20",
+    "cover": "https://images.pexels.com/photos/167636/pexels-photo-167636.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "audio": "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav",
+    "genre": "Pop"
+  },
+  {
+    "id": 2,
+    "title": "Watermelon Sugar",
+    "artist": "Harry Styles",
+    "album": "Fine Line",
+    "duration": "2:54",
+    "cover": "https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "audio": "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav",
+    "genre": "Pop"
+  },
+  {
+    "id": 3,
+    "title": "Good 4 U",
+    "artist": "Olivia Rodrigo",
+    "album": "SOUR",
+    "duration": "2:58",
+    "cover": "https://images.pexels.com/photos/1699161/pexels-photo-1699161.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "audio": "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav",
+    "genre": "Pop Rock"
+  },
+  {
+    "id": 4,
+    "title": "Industry Baby",
+    "artist": "Lil Nas X ft. Jack Harlow",
+    "album": "MONTERO",
+    "duration": "3:32",
+    "cover": "https://images.pexels.com/photos/1540406/pexels-photo-1540406.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "audio": "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav",
+    "genre": "Hip Hop"
+  },
+  {
+    "id": 5,
+    "title": "Stay",
+    "artist": "The Kid LAROI & Justin Bieber",
+    "album": "F*CK LOVE 3",
+    "duration": "2:21",
+    "cover": "https://images.pexels.com/photos/1708912/pexels-photo-1708912.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "audio": "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav",
+    "genre": "Pop"
+  },
+  {
+    "id": 6,
+    "title": "Heat Waves",
+    "artist": "Glass Animals",
+    "album": "Dreamland",
+    "duration": "3:58",
+    "cover": "https://images.pexels.com/photos/1045541/pexels-photo-1045541.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "audio": "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav",
+    "genre": "Indie"
+  },
+  {
+    "id": 7,
+    "title": "As It Was",
+    "artist": "Harry Styles",
+    "album": "Harry's House",
+    "duration": "2:47",
+    "cover": "https://images.pexels.com/photos/1752806/pexels-photo-1752806.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "audio": "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav",
+    "genre": "Pop"
+  },
+  {
+    "id": 8,
+    "title": "First Class",
+    "artist": "Jack Harlow",
+    "album": "Come Home The Kids Miss You",
+    "duration": "2:52",
+    "cover": "https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "audio": "https://www.soundjay.com/misc/sounds/bell-ringing-05.wav",
+    "genre": "Hip Hop"
+  }
+]
